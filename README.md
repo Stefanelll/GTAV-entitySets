@@ -1,3 +1,4 @@
+##### Alte versiuni: [română](https://github.com/Stefanelll/GTAV-entitySets-ro)
 # GTA V - entitySets finder from XML
 
 ### This python project come in help for extracting entitySets from '.xml' file.
